@@ -1,1 +1,1 @@
-This branch is designed for algorithms homework
+This repository is designed for algorithm homework
